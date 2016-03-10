@@ -1,6 +1,6 @@
 # JavaScript at home exercise
 
-We will build on the exercise we completed in class. While it might be easier to build a web page via HTML, for this exercise we will create the element of a website using JavaScipt.
+We will build on the exercise we completed in class. While it might be easier to build a web page via HTML, for this exercise we will create the elements of a website using JavaScipt.
 
 Add a script tag to the index.html file and use JavaScript to create 5 paragraphs with the text:
 
@@ -9,3 +9,7 @@ Add a script tag to the index.html file and use JavaScript to create 5 paragraph
 * This is paragraph 3
 * This is paragraph 4
 * This is paragraph 5
+
+You should combine the things we learned from class, including loops, variables and the DOM to create the page. If you are feeling ambitious use arrays to make each paragraph a little more unique.
+
+
