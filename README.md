@@ -9,6 +9,3 @@ Add a script tag to the index.html file and use JavaScript to create 5 paragraph
 * This is paragraph 3
 * This is paragraph 4
 * This is paragraph 5
-
-
-
