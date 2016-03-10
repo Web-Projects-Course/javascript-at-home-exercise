@@ -1,15 +1,13 @@
 # JavaScript at home exercise
 
-We will build on the exercise we completed in class. While it might be easier to build a web page via HTML, for this exercise we will create the elements of a website using JavaScipt.
+We will build on the exercise we completed in class. For this weeks exercise we are going to use what we have covered so far in JavaScript to make a very annoying webpage.
 
-Add a script tag to the index.html file and use JavaScript to create 5 paragraphs with the text:
+* Add a script tag to the index.html file.
+* Using JavaScript create a webpage that opens 5 alert boxes one after the other. (You won't see the second until you dismiss the first)
+* The alert boxes should say something like "This is alert 1", "This is alert 2", "This is alert 3" etc.
 
-* This is paragraph 1
-* This is paragraph 2
-* This is paragraph 3
-* This is paragraph 4
-* This is paragraph 5
+You should combine the things we learned from class, including loops and variables. 
 
-You should combine the things we learned from class, including loops, variables and the DOM to create the page. If you are feeling ambitious use arrays to make each paragraph a little more unique.
+**EXTRA:** If you are feeling ambitious use arrays to make each alert a little more unique.
 
 
